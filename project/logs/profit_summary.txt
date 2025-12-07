@@ -1,0 +1,24 @@
+[2025-06-09 22:46:56.627770]
+Total Profit: £455.55
+Win Rate: 37.37%
+Average Win: £10.04
+Average Loss: £-5.21
+Biggest Win: £400.50
+Biggest Loss: £-154.49
+-----------------------------------
+[2025-06-12 15:07:02.667866]
+Total Profit: £81771.31
+Win Rate: 35.87%
+Average Win: £318.93
+Average Loss: £-113.50
+Biggest Win: £38495.50
+Biggest Loss: £-12120.21
+-----------------------------------
+[2025-06-12 20:11:49.162320]
+Total Profit: £81771.31
+Win Rate: 35.87%
+Average Win: £318.93
+Average Loss: £-113.50
+Biggest Win: £38495.50
+Biggest Loss: £-12120.21
+-----------------------------------

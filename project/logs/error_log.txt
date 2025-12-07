@@ -1,0 +1,23 @@
+[2025-06-12 15:06:29.698081] API call failed for BTC-USD: '05. price'
+[2025-07-27 22:37:01.459497] API call failed for Get_Historical_Data: AAPL - No data returned
+[2025-07-27 22:37:02.294355] API call failed for Get_Historical_Data: TSLA - No data returned
+[2025-07-27 22:37:02.826285] API call failed for Get_Historical_Data: GOOG - No data returned
+[2025-07-27 22:37:03.775101] API call failed for Get_Historical_Data: NFLX - No data returned
+[2025-07-27 22:37:04.357611] API call failed for Get_Historical_Data: MSFT - No data returned
+[2025-07-27 22:37:05.135637] API call failed for Get_Historical_Data: AMZN - No data returned
+[2025-07-27 22:37:05.692043] API call failed for Get_Historical_Data: NVDA - No data returned
+[2025-07-27 22:37:06.471265] API call failed for Get_Historical_Data: AMD - No data returned
+[2025-07-27 22:37:07.014565] API call failed for Get_Historical_Data: BABA - No data returned
+[2025-07-27 22:37:07.763404] API call failed for Get_Historical_Data: META - No data returned
+[2025-07-27 22:37:08.335651] API call failed for Get_Historical_Data: PYPL - No data returned
+[2025-07-27 22:39:43.698259] API call failed for Get_Historical_Data: AAPL - No data returned
+[2025-07-27 22:39:44.444176] API call failed for Get_Historical_Data: TSLA - No data returned
+[2025-07-27 22:39:44.987778] API call failed for Get_Historical_Data: GOOG - No data returned
+[2025-07-27 22:39:45.776179] API call failed for Get_Historical_Data: NFLX - No data returned
+[2025-07-27 22:39:46.323765] API call failed for Get_Historical_Data: MSFT - No data returned
+[2025-07-27 22:39:47.080822] API call failed for Get_Historical_Data: AMZN - No data returned
+[2025-07-27 22:39:47.646675] API call failed for Get_Historical_Data: NVDA - No data returned
+[2025-07-27 22:39:48.392778] API call failed for Get_Historical_Data: AMD - No data returned
+[2025-07-27 22:39:48.934863] API call failed for Get_Historical_Data: BABA - No data returned
+[2025-07-27 22:39:49.660423] API call failed for Get_Historical_Data: META - No data returned
+[2025-07-27 22:39:50.223594] API call failed for Get_Historical_Data: PYPL - No data returned
