@@ -1,12 +1,12 @@
 # stock_prediction_system
 
-# 📈 Stock Prediction System
+# Stock Prediction System
 
 A modular Python-based stock prediction and backtesting system designed to fetch real-time and historical data, generate technical indicators, and simulate automated trading behaviour. The system is structured into reusable modules, making it easy to extend, debug, and integrate with future machine learning models.
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Modular architecture (fetcher, indicators, strategy, backtester, config)
 - Fetches real-time & historical data using YFinance
@@ -20,7 +20,7 @@ A modular Python-based stock prediction and backtesting system designed to fetch
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 modules/
 fetcher.py # Data fetching (YFinance)
@@ -35,3 +35,15 @@ Hourly/ # Cached hourly data
 Daily/ # Daily data
 
 main.py # Runs the full pipeline
+
+---
+Example Output
+
+Running backtest for AAPL...
+
+Buy @ 155.20 → Sell @ 160.30 | Profit: +3.29%
+Buy @ 158.10 → Stop-loss triggered | Loss: -1.20%
+
+Total trades: 12
+Win rate: 58%
+Final balance: £842
