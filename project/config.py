@@ -5,7 +5,8 @@ sleep time, history period, Fast / Slow MA
 """
 from datetime import datetime, timedelta
 
-api_key = "RELHBVV78MUHUAN1"
+from secrets import Alpha_Key
+api_key = Alpha_Key  # you dont have access to my Key
 
 
 with open("project/logs/symbols.txt", "r") as file:
